@@ -1,10 +1,12 @@
 <p align="center">
 <img src="https://i.ibb.co/jZ2wvX0/NEWEV-AT.png" width="172" height="123">
 </p>
+## Important !!!
+**All Scripts were changed to work on german Keyboards/ Windows versions via a powershell keyboard change to US Layout and back to German in the end. Change Script by [ MrDelock](https://github.com/MimicLynx/DigiSparkDELayout)**
 
 # DigiSpark Attiny85 poor man's RubberDucky
 For people who can't buy or are too cheap to buy RubberDucky, DigiSpark Attiny85 is the solution to their problems. Because it's possible to use it as HID thanks to "DigiKeyboard.h" it can be use as keyboard to send keystrokes to computer which can be use for pranking your people to creating a backdoor in target system.
-**All Scripts were changed to work on german Keyboards/ Windows versions via a powershell keyboard change to US Layout and back to German in the end. Change Script by [ MrDelock](https://github.com/MimicLynx/DigiSparkDELayout)**
+
 
 ## What's here?
 I have created this repo for sharing my payloads for DigiSpark Attiny85. It's my first time programming any device and so far no fires. All the payloads are tested on Attiny85 and created on Arduino IDE.
